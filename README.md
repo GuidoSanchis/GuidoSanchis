@@ -8,8 +8,7 @@ Sou estudante de Sistemas de Informação na Faculdade Unilasalle-RJ e meu inter
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,cs,eclipse,java,figma,git,github,mysql,py,vscode)](https://skillicons.dev)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=GuidoSanchis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=GuidoSanchis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSanchis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

@@ -8,9 +8,12 @@ Sou estudante de Sistemas de Informação na Faculdade Unilasalle-RJ e meu inter
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,cs,eclipse,java,figma,git,github,mysql,py,vscode,laravel,php,)](https://skillicons.dev)
 # 📊 GitHub Stats: 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?![filament-logo](https://github.com/GuidoSanchis/GuidoSanchis/assets/114942281/6241b2e7-33a2-4f93-8dff-3d26b7eefcce)
-username=GuidoSanchis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guidosanchis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=guidosanchis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<br/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GuidoSanchis&icon=5&color=3)](https://visitcount.itsvg.in)
